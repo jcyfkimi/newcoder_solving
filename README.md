@@ -11,3 +11,5 @@ If you have better solutions, please raise the PR, I will check all by myself. N
 
 ## History
 20220822: Initial create and submit. 
+
+20220822: Commit solutions for HJ15
