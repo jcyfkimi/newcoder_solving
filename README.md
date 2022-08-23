@@ -31,3 +31,5 @@ If you have better solutions, please raise the PR, I will check all by myself. N
 20220823: Commit solutions for HJ48
 
 20220823: Commit solutions for HJ106
+
+20220823: Commit solutions for HJ108
